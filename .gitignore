@@ -11,3 +11,6 @@ saved/
 *.orig
 *.sln
 *.xlsx
+Content/RR_data/Assets/Elevator02/Warehouse_Finished01_BuiltData.uasset
+Content/RR_data/Assets/Elevator02/Warehouse_master01_BuiltData.uasset
+Content/RR_data/Assets/Elevator02/Warehouse_Trashed01_BuiltData.uasset
